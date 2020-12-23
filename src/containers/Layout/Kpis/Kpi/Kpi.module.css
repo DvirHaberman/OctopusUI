@@ -1,0 +1,35 @@
+.kpi {
+    border: solid 3px black;
+    flex-direction: column;
+    height: 60%;
+    max-width: 30%;
+    box-shadow: 5px 6px #CCC;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    /* flex-wrap: wrap; */
+    margin: 16px 20px;
+    padding: 16px 0;
+    flex: 1 1 0px
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+p {
+    display: block;
+    margin: 0;
+}
+
+span {
+    color: gainsboro;
+    font-size: 2rem;
+}

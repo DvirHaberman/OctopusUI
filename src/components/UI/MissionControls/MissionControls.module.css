@@ -1,0 +1,15 @@
+.Container {
+    background-color: inherit;
+    display: flex;
+    flex-direction: row;
+    /* align-self: flex-end; */
+    /* justify-self: flex-end; */
+    /* margin-left: auto; */
+    padding: 5px;
+    flex-wrap: wrap;
+}
+
+.MissionControl {
+    margin: 16px 10px;
+    font-size: 1rem;
+}

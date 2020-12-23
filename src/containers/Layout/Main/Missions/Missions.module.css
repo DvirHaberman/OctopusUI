@@ -1,0 +1,17 @@
+ul {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 5px 5px 2px #444444;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    list-style: none;
+    padding: 16px;
+    min-width: 250px;
+    background-color: white;
+    overflow-y: scroll;
+    max-height: 95%;
+}

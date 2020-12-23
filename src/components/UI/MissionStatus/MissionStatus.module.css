@@ -1,0 +1,43 @@
+.Container {
+    background-color: inherit;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    padding: 5px;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.MissionStatus {
+    margin: 16px;
+    font-size: 3rem;
+}
+
+.InProcess {
+    color: #17a2b8;
+}
+
+.Fail {
+    color: #dc3545;
+}
+
+.Success {
+    color: #28a745;
+}
+
+.PartialSuccess {
+    color: #ffc107;
+}
+
+.NotStarted {
+    color: gray;
+}
+
+.Status {
+    display: block;
+}
+
+h5 {
+    margin: 2px;
+}
